@@ -118,14 +118,6 @@ The Executive Overview highlights four critical financial KPIs.
 
 ---
 
-## 📷 KPI Cards Screenshot
-
-&lt;p align="center"&gt;
-  &lt;img src="snapshots/CFO%20OVERVIEW.png" alt="Executive KPI Cards" width="90%"&gt;
-&lt;/p&gt;
-
----
-
 # 🌉 Financial Performance Bridge
 
 The Financial Bridge explains exactly how revenue becomes profit.
