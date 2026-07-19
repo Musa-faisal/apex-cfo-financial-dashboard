@@ -2,16 +2,13 @@
 
 ### Executive Financial Analytics Dashboard | Power BI | DAX | Power Query | Financial Storytelling
 
-<p align="center">
-
-🚧 <img src="snapshots/CFO-OVERVIEW.png" width="100%">
-
-
-</p>
+&lt;p align="center"&gt;
+  &lt;img src="snapshots/CFO%20OVERVIEW.png" alt="Executive Dashboard Preview" width="85%"&gt;
+&lt;/p&gt;
 
 ---
 
-<p align="center">
+&lt;p align="center"&gt;
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-2563EB?style=for-the-badge)
@@ -20,7 +17,30 @@
 ![Financial Analytics](https://img.shields.io/badge/Financial%20Analytics-E11D48?style=for-the-badge)
 ![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-0EA5E9?style=for-the-badge)
 
-</p>
+&lt;/p&gt;
+
+---
+
+## 📖 Table of Contents
+- [Executive Summary](#-executive-summary)
+- [Business Problem](#-business-problem)
+- [Solution](#-solution)
+- [Dashboard Features](#-dashboard-features)
+- [Executive KPI Cards](#-executive-kpi-cards)
+- [Financial Performance Bridge](#-financial-performance-bridge)
+- [Business Performance Heatmap](#-business-performance-heatmap)
+- [Dashboard Pages](#-dashboard-pages)
+- [Data Model](#-data-model)
+- [Power Query](#-power-query)
+- [DAX Highlights](#-dax-highlights)
+- [Tech Stack](#-tech-stack)
+- [Skills Demonstrated](#-skills-demonstrated)
+- [Key Insights](#-key-insights)
+- [Repository Structure](#-repository-structure)
+- [Future Improvements](#-future-improvements)
+- [Why This Project Stands Out](#-why-this-project-stands-out)
+- [Key Learnings](#-key-learnings)
+- [About Me](#-about-me)
 
 ---
 
@@ -64,25 +84,16 @@ Instead of overwhelming users with dozens of charts, every visual has been desig
 
 # 🚀 Dashboard Features
 
-✅ Executive KPI Cards
-
-✅ Financial Performance Bridge
-
-✅ Business Performance Heatmap
-
-✅ Dynamic Year-over-Year Analysis
-
-✅ Time Intelligence
-
-✅ Dynamic Titles & Subtitles
-
-✅ Interactive Filters
-
-✅ Conditional Formatting
-
-✅ Executive Dark Theme
-
-✅ Professional Financial Reporting
+✅ Executive KPI Cards  
+✅ Financial Performance Bridge  
+✅ Business Performance Heatmap  
+✅ Dynamic Year-over-Year Analysis  
+✅ Time Intelligence  
+✅ Dynamic Titles & Subtitles  
+✅ Interactive Filters  
+✅ Conditional Formatting  
+✅ Executive Dark Theme  
+✅ Professional Financial Reporting  
 
 ---
 
@@ -109,7 +120,9 @@ The Executive Overview highlights four critical financial KPIs.
 
 ## 📷 KPI Cards Screenshot
 
-> **INSERT KPI CARDS IMAGE HERE**
+&lt;p align="center"&gt;
+  &lt;img src="snapshots/CFO%20OVERVIEW.png" alt="Executive KPI Cards" width="90%"&gt;
+&lt;/p&gt;
 
 ---
 
@@ -119,19 +132,18 @@ The Financial Bridge explains exactly how revenue becomes profit.
 
 Unlike traditional dashboards that simply display totals, this visual tells the financial story.
 
-```
 Net Revenue
-      ↓
- Discounts
-      ↓
-     COGS
-      ↓
+↓
+Discounts
+↓
+COGS
+↓
 Gross Profit
-      ↓
+↓
 Operating Expenses
-      ↓
+↓
 Operating Profit
-```
+
 
 Each row contains:
 
@@ -147,7 +159,9 @@ This allows executives to understand exactly where money is earned and where it 
 
 ## 📷 Financial Bridge Screenshot
 
-> **INSERT FINANCIAL BRIDGE IMAGE HERE**
+<p align="center">
+  <img src="snapshots/FINANCIAL%20PERFORMANCE.png" alt="Financial Performance Bridge" width="90%">
+</p>
 
 ---
 
@@ -155,25 +169,20 @@ This allows executives to understand exactly where money is earned and where it 
 
 The heatmap identifies profitability across Regions and Customer Segments.
 
-Rows
-
+**Rows**
 - Region
 
-Columns
-
+**Columns**
 - Customer Segment
 
-Values
-
+**Values**
 - Gross Margin %
 
 The heatmap instantly highlights:
 
-🟢 High Margin Areas
-
-🟡 Moderate Performance
-
-🔴 Underperforming Business Units
+🟢 High Margin Areas  
+🟡 Moderate Performance  
+🔴 Underperforming Business Units  
 
 This enables management to focus on areas with the greatest business impact.
 
@@ -181,7 +190,9 @@ This enables management to focus on areas with the greatest business impact.
 
 ## 📷 Heatmap Screenshot
 
-> **INSERT HEATMAP IMAGE HERE**
+<p align="center">
+  <img src="snapshots/HEATMAP.png" alt="Business Performance Heatmap" width="90%">
+</p>
 
 ---
 
@@ -200,7 +211,9 @@ Contains:
 
 ### 📷 Executive Overview Screenshot
 
-> **INSERT EXECUTIVE OVERVIEW IMAGE HERE**
+<p align="center">
+  <img src="snapshots/CFO%20OVERVIEW.png" alt="Executive Overview Dashboard" width="95%">
+</p>
 
 ---
 
@@ -218,7 +231,15 @@ Provides detailed analysis of:
 
 ### 📷 Customer & Product Analytics Screenshot
 
-> **INSERT CUSTOMER PAGE IMAGE HERE**
+<p align="center">
+  <img src="snapshots/CFO%20customer%20&%20product.png" alt="Customer and Product Analytics" width="95%">
+</p>
+
+<p align="center">
+  <img src="snapshots/CUSTOMER%20REV.png" alt="Customer Revenue Analysis" width="48%">
+  &nbsp;
+  <img src="snapshots/PRODUCT%20PROFITABILITY.png" alt="Product Profitability Analysis" width="48%">
+</p>
 
 ---
 
@@ -235,7 +256,13 @@ Focuses on financial diagnostics including:
 
 ### 📷 CFO Review Screenshot
 
-> **INSERT CFO REVIEW IMAGE HERE**
+<p align="center">
+  <img src="snapshots/CFO%20Review.png" alt="CFO Review Dashboard" width="95%">
+</p>
+
+<p align="center">
+  <img src="snapshots/CFO%20REVIEW%20CHART.png" alt="CFO Review Charts" width="90%">
+</p>
 
 ---
 
@@ -243,19 +270,16 @@ Focuses on financial diagnostics including:
 
 A professional Star Schema was implemented to improve scalability, maintainability, and DAX performance.
 
-Fact Tables
-
+**Fact Tables**
 - Revenue
 - Expenses
 
-Dimension Tables
-
+**Dimension Tables**
 - Calendar
 - Customers
 - Products
 
-Benefits:
-
+**Benefits:**
 - Faster Queries
 - Cleaner Relationships
 - Better Time Intelligence
@@ -265,7 +289,10 @@ Benefits:
 
 ## 📷 Model View Screenshot
 
-> **INSERT STAR SCHEMA IMAGE HERE**
+> *Star Schema / Model View screenshot to be added here. Use the following syntax once uploaded:*
+> ```markdown
+> ![Star Schema](snapshots/YOUR_MODEL_IMAGE.png)
+> ```
 
 ---
 
@@ -289,26 +316,22 @@ Over **40+ DAX measures** were created throughout the project.
 Major categories include:
 
 ### Revenue
-
 - Net Revenue
 - Revenue PY
 - Revenue YoY Growth
 
 ### Gross Profit
-
 - Gross Profit
 - Gross Profit PY
 - Gross Margin %
 - Gross Profit Trend
 
 ### Operating Profit
-
 - Operating Profit
 - Operating Profit PY
 - Operating Profit Trend
 
 ### Dynamic Measures
-
 - KPI Colors
 - Dynamic Titles
 - Dynamic Subtitles
@@ -316,7 +339,6 @@ Major categories include:
 - Conditional Formatting
 
 ### Financial Bridge
-
 - Current Value
 - % of Revenue
 - YoY Change
@@ -339,14 +361,12 @@ Major categories include:
 # 📌 Skills Demonstrated
 
 ### Business Intelligence
-
 - Executive Dashboard Design
 - KPI Development
 - Financial Reporting
 - Business Storytelling
 
 ### Power BI
-
 - Data Modeling
 - Relationships
 - DAX
@@ -355,7 +375,6 @@ Major categories include:
 - Conditional Formatting
 
 ### Finance
-
 - Net Revenue
 - Gross Profit
 - Operating Profit
@@ -380,27 +399,24 @@ The dashboard enables executives to answer:
 
 # 📂 Repository Structure
 
-```
 Apex-CFO-Financial-Dashboard/
-
 │
-
 ├── README.md
-
 ├── Dashboard/
-
-│ └── Apex CFO Financial Dashboard.pbix
-
+│   └── Apex CFO Financial Dashboard.pbix
 ├── Data/
-
 ├── Documentation/
-
 ├── Assets/
+├── snapshots/
+│   ├── CFO OVERVIEW.png
+│   ├── CFO REVIEW CHART.png
+│   ├── CFO Review.png
+│   ├── CFO customer & product.png
+│   ├── CUSTOMER REV.png
+│   ├── FINANCIAL PERFORMANCE.png
+│   ├── HEATMAP.png
+│   └── PRODUCT PROFITABILITY.png
 
-├── DAX/
-
-└── LICENSE
-```
 
 ---
 
@@ -423,7 +439,7 @@ Potential enhancements include:
 
 Unlike traditional Power BI dashboards that primarily focus on descriptive reporting, this project was designed to emulate a real Executive Financial Command Center.
 
-Key differentiators include:
+**Key differentiators include:**
 
 - Executive-level financial storytelling
 - Dynamic KPI cards with Year-over-Year comparisons
