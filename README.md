@@ -4,7 +4,7 @@
 
 <p align="center">
 
-🚧 
+🚧 <img src="snapshots/CFO-OVERVIEW.png" width="100%">
 
 
 </p>
