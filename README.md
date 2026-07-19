@@ -1,6 +1,20 @@
-# 📊 Apex Distribution Ltd. — CFO Financial Dashboard
+&lt;p align="center"&gt;
+  &lt;img src="snapshots/CFO%20OVERVIEW.png" alt="Apex Distribution CFO Dashboard Preview" width="92%"&gt;
+&lt;/p&gt;
 
-### Executive Financial Analytics Dashboard | Power BI | DAX | Power Query | Financial Storytelling
+&lt;h1 align="center"&gt;📊 Apex Distribution Ltd. — CFO Financial Dashboard&lt;/h1&gt;
+&lt;p align="center"&gt;
+  &lt;b&gt;Executive Financial Analytics Dashboard&lt;/b&gt; | Power BI | DAX | Power Query | Financial Storytelling
+&lt;/p&gt;
+
+&lt;p align="center"&gt;
+  &lt;img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"&gt;
+  &lt;img src="https://img.shields.io/badge/DAX-2563EB?style=for-the-badge"&gt;
+  &lt;img src="https://img.shields.io/badge/Power%20Query-22C55E?style=for-the-badge"&gt;
+  &lt;img src="https://img.shields.io/badge/Star%20Schema-9333EA?style=for-the-badge"&gt;
+  &lt;img src="https://img.shields.io/badge/Financial%20Analytics-E11D48?style=for-the-badge"&gt;
+  &lt;img src="https://img.shields.io/badge/Business%20Intelligence-0EA5E9?style=for-the-badge"&gt;
+&lt;/p&gt;
 
 ---
 
@@ -56,10 +70,10 @@ This dashboard answers questions such as:
 
 The dashboard delivers an Executive Financial Command Center built around four key principles:
 
-- Executive KPI Monitoring
-- Financial Storytelling
-- Profitability Analysis
-- Interactive Business Intelligence
+- **Executive KPI Monitoring** — At-a-glance financial health
+- **Financial Storytelling** — Bridge from revenue to profit
+- **Profitability Analysis** — Segment & regional heatmaps
+- **Interactive Business Intelligence** — Dynamic filters, YoY, and time intelligence
 
 Instead of overwhelming users with dozens of charts, every visual has been designed to answer a specific executive question.
 
@@ -67,13 +81,13 @@ Instead of overwhelming users with dozens of charts, every visual has been desig
 
 # 🚀 Dashboard Features
 
-✅ Executive KPI Cards  
-✅ Financial Performance Bridge  
-✅ Business Performance Heatmap  
+✅ Executive KPI Cards with YoY comparisons  
+✅ Financial Performance Bridge (Revenue → Profit)  
+✅ Business Performance Heatmap (Region × Segment)  
 ✅ Dynamic Year-over-Year Analysis  
-✅ Time Intelligence  
+✅ Time Intelligence (PY, YoY Growth, Trends)  
 ✅ Dynamic Titles & Subtitles  
-✅ Interactive Filters  
+✅ Interactive Slicers & Filters  
 ✅ Conditional Formatting  
 ✅ Executive Dark Theme  
 ✅ Professional Financial Reporting  
@@ -92,12 +106,15 @@ The Executive Overview highlights four critical financial KPIs.
 | 📊 Gross Margin % | Overall profitability percentage |
 
 ### Features
-
 - Dynamic Prior Year Comparison
 - Trend Indicators
 - Dynamic Subtitles
 - Conditional Formatting
 - Executive KPI Design
+
+&lt;p align="center"&gt;
+  &lt;img src="snapshots/CFO%20OVERVIEW.png" alt="Executive KPI Cards" width="92%"&gt;
+&lt;/p&gt;
 
 ---
 
@@ -121,7 +138,6 @@ Operating Profit
 
 
 Each row contains:
-
 - Current Value
 - % of Revenue
 - YoY Change
@@ -130,28 +146,21 @@ Each row contains:
 
 This allows executives to understand exactly where money is earned and where it is spent.
 
----
-
-## 📷 Financial Bridge Screenshot
-
 <p align="center">
-  <img src="snapshots/FINANCIAL%20PERFORMANCE.png" alt="Financial Performance Bridge" width="90%">
+  <img src="snapshots/FINANCIAL%20PERFORMANCE.png" alt="Financial Performance Bridge" width="92%">
 </p>
 
 ---
 
 # 🔥 Business Performance Heatmap
 
-The heatmap identifies profitability across Regions and Customer Segments.
+The heatmap identifies profitability across **Regions** and **Customer Segments**.
 
-**Rows**
-- Region
-
-**Columns**
-- Customer Segment
-
-**Values**
-- Gross Margin %
+| Element | Description |
+|---------|-------------|
+| **Rows** | Region |
+| **Columns** | Customer Segment |
+| **Values** | Gross Margin % |
 
 The heatmap instantly highlights:
 
@@ -161,30 +170,21 @@ The heatmap instantly highlights:
 
 This enables management to focus on areas with the greatest business impact.
 
----
-
-## 📷 Heatmap Screenshot
-
 <p align="center">
-  <img src="snapshots/HEATMAP.png" alt="Business Performance Heatmap" width="90%">
+  <img src="snapshots/HEATMAP.png" alt="Business Performance Heatmap" width="92%">
 </p>
 
 ---
 
 # 📑 Dashboard Pages
 
-## Executive Overview
+## 1️⃣ Executive Overview
 
 Contains:
-
 - Executive KPIs
 - Financial Bridge
 - Heatmap
 - Interactive Filters
-
----
-
-### 📷 Executive Overview Screenshot
 
 <p align="center">
   <img src="snapshots/CFO%20OVERVIEW.png" alt="Executive Overview Dashboard" width="95%">
@@ -192,19 +192,14 @@ Contains:
 
 ---
 
-## Customer & Product Analytics
+## 2️⃣ Customer & Product Analytics
 
 Provides detailed analysis of:
-
 - Customer Profitability
 - Product Performance
 - Revenue Contribution
 - Regional Analysis
 - Segment Analysis
-
----
-
-### 📷 Customer & Product Analytics Screenshot
 
 <p align="center">
   <img src="snapshots/CFO%20customer%20&%20product.png" alt="Customer and Product Analytics" width="95%">
@@ -218,32 +213,27 @@ Provides detailed analysis of:
 
 ---
 
-## CFO Review
+## 3️⃣ CFO Review
 
 Focuses on financial diagnostics including:
-
 - Revenue Trends
 - Expense Analysis
 - Profitability Trends
 - Executive Financial Review
-
----
-
-### 📷 CFO Review Screenshot
 
 <p align="center">
   <img src="snapshots/CFO%20Review.png" alt="CFO Review Dashboard" width="95%">
 </p>
 
 <p align="center">
-  <img src="snapshots/CFO%20REVIEW%20CHART.png" alt="CFO Review Charts" width="90%">
+  <img src="snapshots/CFO%20REVIEW%20CHART.png" alt="CFO Review Charts" width="92%">
 </p>
 
 ---
 
 # 🏗 Data Model
 
-A professional Star Schema was implemented to improve scalability, maintainability, and DAX performance.
+A professional **Star Schema** was implemented to improve scalability, maintainability, and DAX performance.
 
 **Fact Tables**
 - Revenue
@@ -260,16 +250,9 @@ A professional Star Schema was implemented to improve scalability, maintainabili
 - Better Time Intelligence
 - Simpler DAX
 
----
-
-## 📷 Model View Screenshot
-
 <p align="center">
-  <img src="snapshots/STAR%20SCHEMA%20.png" alt="STARSCHEMA" width="95%">
+  <img src="snapshots/START%20SCHEMA.png" alt="Star Schema Data Model" width="95%">
 </p>
-
-
-
 
 ---
 
@@ -289,8 +272,6 @@ Power Query handled all ETL processes including:
 # 🧮 DAX Highlights
 
 Over **40+ DAX measures** were created throughout the project.
-
-Major categories include:
 
 ### Revenue
 - Net Revenue
@@ -392,7 +373,8 @@ Apex-CFO-Financial-Dashboard/
 │   ├── CUSTOMER REV.png
 │   ├── FINANCIAL PERFORMANCE.png
 │   ├── HEATMAP.png
-│   └── PRODUCT PROFITABILITY.png
+│   ├── PRODUCT PROFITABILITY.png
+│   └── START SCHEMA.png
 
 
 ---
@@ -414,9 +396,9 @@ Potential enhancements include:
 
 # ⭐ Why This Project Stands Out
 
-Unlike traditional Power BI dashboards that primarily focus on descriptive reporting, this project was designed to emulate a real Executive Financial Command Center.
+Unlike traditional Power BI dashboards that primarily focus on descriptive reporting, this project was designed to emulate a real **Executive Financial Command Center**.
 
-**Key differentiators include:**
+**Key differentiators:**
 
 - Executive-level financial storytelling
 - Dynamic KPI cards with Year-over-Year comparisons
@@ -427,7 +409,7 @@ Unlike traditional Power BI dashboards that primarily focus on descriptive repor
 - Interactive executive reporting
 - Clean enterprise-inspired dashboard design
 
-This project demonstrates both technical Power BI proficiency and strong business understanding.
+This project demonstrates both **technical Power BI proficiency** and **strong business understanding**.
 
 ---
 
@@ -449,9 +431,7 @@ Through this project I strengthened my understanding of:
 # 👨‍💻 About Me
 
 I am an aspiring Data Analyst and Business Intelligence Developer passionate about transforming raw data into meaningful business insights.
-
 This project showcases my ability to combine technical expertise with financial analysis to build executive-level analytical solutions.
-
 If you're a recruiter, hiring manager, or fellow data professional, I'd be happy to connect and discuss Business Intelligence, Data Analytics, or future opportunities.
 
 ---
