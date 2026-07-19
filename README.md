@@ -2,23 +2,6 @@
 
 ### Executive Financial Analytics Dashboard | Power BI | DAX | Power Query | Financial Storytelling
 
-&lt;p align="center"&gt;
-  &lt;img src="snapshots/CFO%20OVERVIEW.png" alt="Executive Dashboard Preview" width="85%"&gt;
-&lt;/p&gt;
-
----
-
-&lt;p align="center"&gt;
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-2563EB?style=for-the-badge)
-![Power Query](https://img.shields.io/badge/Power%20Query-22C55E?style=for-the-badge)
-![Star Schema](https://img.shields.io/badge/Star%20Schema-9333EA?style=for-the-badge)
-![Financial Analytics](https://img.shields.io/badge/Financial%20Analytics-E11D48?style=for-the-badge)
-![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-0EA5E9?style=for-the-badge)
-
-&lt;/p&gt;
-
 ---
 
 ## 📖 Table of Contents
@@ -281,10 +264,12 @@ A professional Star Schema was implemented to improve scalability, maintainabili
 
 ## 📷 Model View Screenshot
 
-> *Star Schema / Model View screenshot to be added here. Use the following syntax once uploaded:*
-> ```markdown
-> ![Star Schema](snapshots/YOUR_MODEL_IMAGE.png)
-> ```
+<p align="center">
+  <img src="snapshots/STAR%20SCHEMA%20.png" alt="STARSCHEMA" width="95%">
+</p>
+
+
+
 
 ---
 
