@@ -1,5 +1,5 @@
-Apex Distribution Ltd. CFO Financial Dashboard
-
+<h1 align="center">📊 Apex Distribution Ltd. — CFO Financial Dashboard</h1>
+<p align="center"><b>Executive Financial Analytics Dashboard</b> | Power BI | DAX | Power Query | Financial Storytelling</p>
 ---
 
 ## 📖 Table of Contents
