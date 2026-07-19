@@ -4,9 +4,8 @@
 
 <p align="center">
 
-🚧 **PLACEHOLDER — INSERT HERO DASHBOARD IMAGE HERE**
+🚧 
 
-*(After uploading to GitHub, drag & drop your full dashboard screenshot here.)*
 
 </p>
 
