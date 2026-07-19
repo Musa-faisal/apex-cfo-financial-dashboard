@@ -1,0 +1,41 @@
+ProductID,ProductName,Category,SubCategory,UnitCost,UnitPrice,GrossMarginPct,IsActive
+P001,"ProBook 14"" Laptop",Electronics,Laptops,1996.33,2670.68,0.2525,True
+P002,UltraTab 10 Tablet,Electronics,Tablets,398.43,547.53,0.2723,True
+P003,"VisionPro 27"" Monitor",Electronics,Monitors,825.7,1210.12,0.3177,True
+P004,NetCore Gigabit Switch,Electronics,Networking,408.82,551.48,0.2587,True
+P005,Wireless Headset Pro,Electronics,Accessories,100.38,134.38,0.253,True
+P006,4K Webcam Studio,Electronics,Accessories,88.5,126.52,0.3005,True
+P007,SmartPhone X12,Electronics,Phones,270.07,369.9,0.2699,True
+P008,DockStation USB-C,Electronics,Accessories,138.73,199.47,0.3045,True
+P009,PowerBank 20K,Electronics,Accessories,39.12,56.61,0.309,True
+P010,"SmartDisplay 32""",Electronics,Monitors,1163.19,1552.26,0.2506,True
+P011,LaserJet Pro 5000,Office Equipment,Printers,493.74,783.49,0.3698,True
+P012,DocuScan Elite,Office Equipment,Scanners,241.69,353.11,0.3155,True
+P013,SecureShred 300,Office Equipment,Shredders,141.75,212.73,0.3337,True
+P014,ProjectorBeam 4K,Office Equipment,Projectors,491.03,711.3,0.3097,True
+P015,DeskPhone IP-500,Office Equipment,Phones,183.22,286.45,0.3604,True
+P016,LabelMaker Pro,Office Equipment,Accessories,71.84,114.57,0.373,True
+P017,Laminator A3,Office Equipment,Laminators,72.15,119.71,0.3973,True
+P018,BindingMachine 200,Office Equipment,Binders,68.85,106.78,0.3552,True
+P019,CopierMax A3,Office Equipment,Copiers,1410.3,2209.99,0.3619,True
+P020,FaxLine Digital,Office Equipment,Fax Machines,159.4,248.19,0.3578,True
+P021,SafetyHelmet Pro,Industrial Supplies,Safety Equipment,55.01,85.23,0.3546,True
+P022,ImpactGloves XL,Industrial Supplies,PPE,35.3,56.84,0.379,True
+P023,IndustrialMop Set,Industrial Supplies,Cleaning,33.84,53.99,0.3732,True
+P024,PalletWrap 500m,Industrial Supplies,Packaging,35.51,57.07,0.3778,True
+P025,ToolKit Professional,Industrial Supplies,Tools,163.32,266.21,0.3865,True
+P026,DustMask N95 (Box),Industrial Supplies,PPE,38.44,61.11,0.371,True
+P027,SafetyBoots Steel,Industrial Supplies,Safety Equipment,42.67,76.7,0.4437,True
+P028,CableTie Assorted,Industrial Supplies,Electrical,40.91,69.44,0.4109,True
+P029,FirstAid Kit Large,Industrial Supplies,Safety Equipment,35.77,61.98,0.4229,True
+P030,LEDWorkLight 50W,Industrial Supplies,Lighting,42.61,69.61,0.3879,True
+P031,PalletJack 2.5T,Industrial Supplies,Material Handling,407.44,695.29,0.414,True
+P032,FireExtinguisher 6kg,Industrial Supplies,Safety Equipment,51.75,88.99,0.4185,True
+P033,ErgoChair Executive,Furniture,Chairs,418.47,579.28,0.2776,True
+P034,StandingDesk 160cm,Furniture,Desks,415.76,521.79,0.2032,True
+P035,MeetingTable 240cm,Furniture,Meeting Room,654.92,847.0,0.2268,True
+P036,FilingCabinet 4D,Furniture,Storage,150.52,213.29,0.2943,True
+P037,ReceptionSofa Set,Furniture,Meeting Room,846.22,1101.09,0.2315,True
+P038,Bookcase 5-Shelf,Furniture,Storage,175.73,231.09,0.2396,True
+P039,ConferenceChair Mesh,Furniture,Chairs,269.81,357.78,0.2459,True
+P040,Whiteboard Mobile,Furniture,Meeting Room,79.84,102.98,0.2247,True

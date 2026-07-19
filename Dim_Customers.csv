@@ -1,0 +1,81 @@
+CustomerID,CustomerName,Industry,Region,Country,City,Segment,AccountManager,CustomerSince,CreditLimit,PaymentTerms,IsActive,SinceYear
+C001,AutoParts Europe,Manufacturing,North UK,UK,Sheffield,Mid-Market,Claire Dubois,2022-02-20,68000,60,True,2022
+C002,MarketPlace Ltd,Retail,South UK,UK,Bristol,Small Business,Elena Volkov,2020-04-13,39000,60,True,2020
+C003,LifeLine Medical,Healthcare,Midlands,UK,Nottingham,Small Business,James Whitfield,2020-10-08,36000,30,True,2020
+C004,ToolMaster Ltd,Manufacturing,Scotland,UK,Dundee,Enterprise,Hans Müller,2019-01-20,494000,60,True,2019
+C005,StudySmart Group,Education,Germany,Germany,Cologne,Enterprise,Marcus Okafor,2018-11-19,299000,60,True,2018
+C006,ManufacturePlus,Manufacturing,France,France,Marseille,Small Business,David Patel,2022-06-09,34000,30,True,2022
+C007,AppForge GmbH,Technology,Spain,Spain,Zaragoza,Enterprise,Sarah Chen,2018-12-11,453000,45,True,2018
+C008,InduBuild Ltd,Manufacturing,North UK,UK,Sheffield,Small Business,Hans Müller,2021-07-05,35000,30,True,2021
+C009,RetailMax Ltd,Retail,South UK,UK,Bristol,Mid-Market,Claire Dubois,2021-05-15,112000,45,True,2021
+C010,EduTech Partners,Education,Midlands,UK,Leicester,Small Business,Ana García,2021-02-01,19000,30,True,2021
+C011,InnovateSoft,Technology,Scotland,UK,Glasgow,Enterprise,David Patel,2019-10-04,202000,45,True,2019
+C012,RestoMax Europe,Hospitality,Germany,Germany,Munich,Small Business,Elena Volkov,2020-04-17,16000,30,True,2020
+C013,Merchandise Direct,Retail,France,France,Strasbourg,Small Business,Ana García,2021-06-03,37000,30,True,2021
+C014,BrightMind Ltd,Education,Spain,Spain,Madrid,Small Business,Claire Dubois,2023-06-10,24000,30,True,2023
+C015,BuildRight Corp,Manufacturing,North UK,UK,Newcastle,Mid-Market,Elena Volkov,2019-09-23,95000,45,True,2019
+C016,RetailFirst GmbH,Retail,South UK,UK,Southampton,Mid-Market,James Whitfield,2020-11-17,182000,30,True,2020
+C017,CareStream SA,Healthcare,Midlands,UK,Leicester,Mid-Market,Sarah Chen,2019-09-10,168000,45,True,2019
+C018,ShopSmart Group,Retail,Scotland,UK,Glasgow,Mid-Market,David Patel,2022-02-05,62000,30,True,2022
+C019,ComfortStay Group,Hospitality,Germany,Germany,Munich,Enterprise,David Patel,2018-02-24,485000,45,True,2018
+C020,NexGen Systems,Technology,France,France,Nice,Mid-Market,Claire Dubois,2021-05-10,113000,45,True,2021
+C021,TravelFirst Ltd,Hospitality,Spain,Spain,Zaragoza,Mid-Market,Hans Müller,2021-12-11,81000,30,True,2021
+C022,Machinery First,Manufacturing,North UK,UK,Newcastle,Small Business,Marcus Okafor,2021-11-28,39000,30,True,2021
+C023,BioPharm Europe,Healthcare,South UK,UK,Bristol,Small Business,Claire Dubois,2021-08-09,18000,30,True,2021
+C024,TradeFirst Ltd,Retail,Midlands,UK,Coventry,Mid-Market,Marcus Okafor,2022-01-03,168000,45,True,2022
+C025,CareFirst Ltd,Healthcare,Scotland,UK,Dundee,Enterprise,Marcus Okafor,2020-05-02,471000,30,True,2020
+C026,HealthLink Solutions,Healthcare,Germany,Germany,Stuttgart,Enterprise,Elena Volkov,2018-03-21,486000,45,True,2018
+C027,MetalWorks Europe,Manufacturing,France,France,Toulouse,Small Business,James Whitfield,2023-03-24,48000,30,True,2023
+C028,CraftLine Manufacturing,Manufacturing,Spain,Spain,Barcelona,Mid-Market,Sarah Chen,2020-12-14,131000,45,True,2020
+C029,LearnForward,Education,North UK,UK,Newcastle,Small Business,Elena Volkov,2022-02-03,38000,45,True,2022
+C030,TradeHub SA,Retail,South UK,UK,Bristol,Small Business,Elena Volkov,2023-12-05,49000,30,True,2023
+C031,CampusTech Europe,Education,Midlands,UK,Nottingham,Small Business,Ana García,2022-06-19,42000,45,True,2022
+C032,CyberShield Europe,Technology,Scotland,UK,Inverness,Small Business,Sarah Chen,2022-07-05,37000,45,True,2022
+C033,ShopLine Partners,Retail,Germany,Germany,Frankfurt,Small Business,David Patel,2020-06-26,45000,30,True,2020
+C034,CloudPeak IT,Technology,France,France,Marseille,Mid-Market,Ana García,2022-01-12,164000,30,True,2022
+C035,MediCare Plus,Healthcare,Spain,Spain,Zaragoza,Mid-Market,Hans Müller,2020-04-22,90000,30,True,2020
+C036,TrainingWorks GmbH,Education,North UK,UK,Sheffield,Mid-Market,David Patel,2019-09-28,171000,45,True,2019
+C037,MedSupply Direct,Healthcare,South UK,UK,Southampton,Small Business,David Patel,2022-10-24,38000,60,True,2022
+C038,SteelForge Industries,Manufacturing,Midlands,UK,Derby,Small Business,Marcus Okafor,2021-04-28,26000,30,True,2021
+C039,PharmaNet GmbH,Healthcare,Scotland,UK,Dundee,Enterprise,Hans Müller,2018-03-14,326000,60,True,2018
+C040,ByteBridge,Technology,Germany,Germany,Hamburg,Small Business,Elena Volkov,2020-12-11,50000,45,True,2020
+C041,Silicon Valley UK,Technology,France,France,Lyon,Enterprise,Hans Müller,2020-07-26,341000,60,True,2020
+C042,BuyRight Corp,Retail,Spain,Spain,Barcelona,Mid-Market,Marcus Okafor,2021-12-26,183000,45,True,2021
+C043,HotelLine SA,Hospitality,North UK,UK,Sheffield,Mid-Market,Sarah Chen,2020-03-26,174000,60,True,2020
+C044,NetStream SA,Technology,South UK,UK,Southampton,Mid-Market,Ana García,2021-07-28,111000,30,True,2021
+C045,ConstructPro,Manufacturing,Midlands,UK,Birmingham,Enterprise,James Whitfield,2018-08-08,340000,30,True,2018
+C046,Wellness Corp,Healthcare,Scotland,UK,Glasgow,Enterprise,James Whitfield,2018-08-12,425000,45,True,2018
+C047,RetailPro,Retail,Germany,Germany,Düsseldorf,Mid-Market,Hans Müller,2020-04-08,69000,30,True,2020
+C048,StoreFront Europe,Retail,France,France,Paris,Small Business,David Patel,2020-04-13,28000,30,True,2020
+C049,CodeCraft Ltd,Technology,Spain,Spain,Barcelona,Mid-Market,James Whitfield,2020-02-25,110000,45,True,2020
+C050,MegaBuild Industries,Manufacturing,North UK,UK,Leeds,Small Business,Ana García,2021-11-17,27000,30,True,2021
+C051,TechFlow Solutions,Technology,South UK,UK,Southampton,Enterprise,Elena Volkov,2019-09-11,371000,60,True,2019
+C052,Engineering Partners,Manufacturing,Midlands,UK,Derby,Mid-Market,Hans Müller,2022-02-09,131000,45,True,2022
+C053,CateringPro GmbH,Hospitality,Scotland,UK,Glasgow,Mid-Market,Hans Müller,2019-05-02,188000,30,True,2019
+C054,Academia SA,Education,Germany,Germany,Cologne,Mid-Market,James Whitfield,2019-07-12,70000,45,True,2019
+C055,EventSpace Ltd,Hospitality,France,France,Toulouse,Enterprise,Sarah Chen,2020-06-14,270000,60,True,2020
+C056,ResortFirst Ltd,Hospitality,Spain,Spain,Bilbao,Small Business,Marcus Okafor,2022-09-04,19000,30,True,2022
+C057,HealthFirst Ltd,Healthcare,North UK,UK,Liverpool,Mid-Market,Sarah Chen,2020-10-07,109000,60,True,2020
+C058,EduPro Services,Education,South UK,UK,Oxford,Small Business,Sarah Chen,2021-12-14,34000,60,True,2021
+C059,Fabrica GmbH,Manufacturing,Midlands,UK,Leicester,Small Business,Marcus Okafor,2020-09-22,19000,30,True,2020
+C060,PrecisionParts Ltd,Manufacturing,Scotland,UK,Inverness,Enterprise,James Whitfield,2020-12-24,309000,30,True,2020
+C061,ProMake SA,Manufacturing,Germany,Germany,Düsseldorf,Mid-Market,Marcus Okafor,2021-06-14,66000,45,True,2021
+C062,InfoTech Partners,Technology,France,France,Paris,Small Business,Elena Volkov,2020-11-11,36000,30,True,2020
+C063,DineWell Corp,Hospitality,Spain,Spain,Zaragoza,Enterprise,Hans Müller,2020-11-28,408000,60,True,2020
+C064,StayWell Hotels,Hospitality,North UK,UK,Manchester,Enterprise,Ana García,2018-05-17,369000,45,True,2018
+C065,ConsumerGoods Europe,Retail,South UK,UK,Oxford,Mid-Market,Elena Volkov,2020-07-11,188000,45,True,2020
+C066,KnowledgeHub Ltd,Education,Midlands,UK,Leicester,Mid-Market,Sarah Chen,2020-05-18,169000,30,True,2020
+C067,BioMed Partners,Healthcare,Scotland,UK,Aberdeen,Mid-Market,David Patel,2019-07-22,156000,45,True,2019
+C068,Hospitality Partners,Hospitality,Germany,Germany,Berlin,Enterprise,Claire Dubois,2021-11-24,231000,60,True,2021
+C069,TravelHub Europe,Hospitality,France,France,Marseille,Enterprise,James Whitfield,2021-10-19,305000,45,True,2021
+C070,QuantumLogic,Technology,Spain,Spain,Seville,Small Business,Ana García,2021-09-27,36000,45,True,2021
+C071,AssemblyLine Corp,Manufacturing,North UK,UK,Leeds,Mid-Market,James Whitfield,2019-05-07,149000,60,True,2019
+C072,Digital Horizon,Technology,South UK,UK,Southampton,Enterprise,Claire Dubois,2019-10-20,499000,60,True,2019
+C073,Gourmet Dining Group,Hospitality,Midlands,UK,Birmingham,Small Business,Ana García,2022-08-15,11000,30,True,2022
+C074,SmartWare Solutions,Technology,Scotland,UK,Aberdeen,Small Business,Claire Dubois,2022-04-17,46000,60,True,2022
+C075,VitalHealth Group,Healthcare,Germany,Germany,Frankfurt,Mid-Market,David Patel,2020-12-06,147000,45,True,2020
+C076,EduLearn Academy,Education,France,France,Strasbourg,Mid-Market,Claire Dubois,2021-05-17,172000,45,True,2021
+C077,Academic Solutions,Education,Spain,Spain,Barcelona,Enterprise,Ana García,2020-10-11,203000,60,True,2020
+C078,ScholarFirst,Education,North UK,UK,Sheffield,Mid-Market,Sarah Chen,2019-04-22,140000,45,True,2019
+C079,DataSphere Ltd,Technology,South UK,UK,London,Small Business,Marcus Okafor,2021-04-05,29000,30,True,2021
+C080,Pixel Dynamics,Technology,Midlands,UK,Leicester,Small Business,Claire Dubois,2020-04-16,34000,30,True,2020

@@ -1,0 +1,9 @@
+SalespersonID,Salesperson,Region,Manager,HireDate,TargetQuota,IsActive
+S01,Liam Henderson,North UK,David Morrison,2019-03-15,1900000.0,True
+S02,Emma Walsh,North UK,David Morrison,2021-07-01,1800000.0,True
+S03,Daniel Foster,South UK,Laura Bennett,2019-06-10,2200000.0,True
+S04,Priya Sharma,South UK,Laura Bennett,2020-02-18,2000000.0,True
+S05,Michael O'Brien,Midlands,Robert Singh,2020-09-01,1500000.0,True
+S06,Fiona Campbell,Scotland,Robert Singh,2022-01-10,1300000.0,True
+S07,Klaus Weber,Germany,Isabelle Moreau,2019-11-20,2400000.0,True
+S08,Carlos Reyes,France/Spain,Isabelle Moreau,2021-04-05,2500000.0,True

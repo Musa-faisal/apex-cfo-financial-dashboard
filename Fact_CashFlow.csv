@@ -1,0 +1,581 @@
+TransactionID,TransactionDate,CashIn,CashOut,BankAccount,TransactionType,Description
+CF-2023-0001,2023-01-03,76872.86,0.0,EUR Account,Operating,Customer Payment - Invoice
+CF-2023-0002,2023-01-04,0.0,11636.38,Main Operating Account,Operating,Supplier Payment
+CF-2023-0003,2023-01-04,24941.9,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0004,2023-01-04,21780.19,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0005,2023-01-04,36732.3,0.0,EUR Account,Operating,Customer Payment - Invoice
+CF-2023-0006,2023-01-05,0.0,43912.92,Main Operating Account,Operating,Supplier Payment
+CF-2023-0007,2023-01-05,82514.89,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0008,2023-01-06,0.0,26136.41,EUR Account,Operating,Supplier Payment
+CF-2023-0009,2023-01-09,0.0,44581.9,Main Operating Account,Operating,Supplier Payment
+CF-2023-0010,2023-01-10,10678.02,0.0,EUR Account,Operating,Tax Refund
+CF-2023-0011,2023-01-11,84016.24,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0012,2023-01-16,0.0,36716.57,Main Operating Account,Operating,Supplier Payment
+CF-2023-0013,2023-01-17,20765.09,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0014,2023-01-18,0.0,10856.1,Main Operating Account,Operating,Supplier Payment
+CF-2023-0015,2023-01-19,71811.22,0.0,EUR Account,Operating,Customer Payment - Invoice
+CF-2023-0016,2023-01-20,26414.32,0.0,EUR Account,Operating,Customer Payment - Invoice
+CF-2023-0017,2023-01-20,0.0,14399.28,Savings Account,Operating,Supplier Payment
+CF-2023-0018,2023-01-23,66828.32,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0019,2023-01-24,0.0,37799.56,Main Operating Account,Operating,Supplier Payment
+CF-2023-0020,2023-01-25,24051.3,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0021,2023-01-26,37178.33,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0022,2023-01-26,0.0,10237.52,EUR Account,Operating,Supplier Payment
+CF-2023-0023,2023-01-27,0.0,30277.99,Savings Account,Operating,Supplier Payment
+CF-2023-0024,2023-01-30,0.0,14536.1,Main Operating Account,Operating,Supplier Payment
+CF-2023-0025,2023-01-30,0.0,16380.28,Main Operating Account,Operating,Supplier Payment
+CF-2023-0026,2023-01-31,0.0,18709.64,Main Operating Account,Operating,Supplier Payment
+CF-2023-0027,2023-02-06,47595.27,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0028,2023-02-07,91225.23,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0029,2023-02-08,0.0,289578.09,Main Operating Account,Operating,Salary Payment
+CF-2023-0030,2023-02-08,0.0,21523.42,Main Operating Account,Operating,Supplier Payment
+CF-2023-0031,2023-02-08,0.0,25524.0,Main Operating Account,Operating,Supplier Payment
+CF-2023-0032,2023-02-09,77308.8,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0033,2023-02-09,69842.29,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0034,2023-02-09,100981.99,0.0,EUR Account,Operating,Customer Payment - Invoice
+CF-2023-0035,2023-02-16,998.68,0.0,Savings Account,Operating,Interest Income
+CF-2023-0036,2023-02-16,0.0,62612.73,Main Operating Account,Operating,Tax Payment - VAT
+CF-2023-0037,2023-02-17,84338.44,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0038,2023-02-22,0.0,36517.96,Main Operating Account,Operating,Supplier Payment
+CF-2023-0039,2023-02-22,17911.7,0.0,Main Operating Account,Operating,Tax Refund
+CF-2023-0040,2023-02-22,0.0,319119.38,Main Operating Account,Operating,Salary Payment
+CF-2023-0041,2023-02-24,0.0,46574.52,EUR Account,Operating,Supplier Payment
+CF-2023-0042,2023-02-27,0.0,45163.94,EUR Account,Operating,Supplier Payment
+CF-2023-0043,2023-02-28,0.0,29992.14,Main Operating Account,Operating,Supplier Payment
+CF-2023-0044,2023-02-28,16429.43,0.0,EUR Account,Operating,Tax Refund
+CF-2023-0045,2023-03-02,0.0,37429.49,Main Operating Account,Operating,Supplier Payment
+CF-2023-0046,2023-03-02,74850.63,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0047,2023-03-03,0.0,13298.26,Main Operating Account,Operating,Supplier Payment
+CF-2023-0048,2023-03-06,64656.86,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0049,2023-03-06,0.0,46431.16,Main Operating Account,Operating,Supplier Payment
+CF-2023-0050,2023-03-07,0.0,30519.75,Main Operating Account,Operating,Supplier Payment
+CF-2023-0051,2023-03-08,47519.33,0.0,EUR Account,Operating,Customer Payment - Invoice
+CF-2023-0052,2023-03-08,0.0,18430.63,Main Operating Account,Operating,Supplier Payment
+CF-2023-0053,2023-03-08,24176.4,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0054,2023-03-13,52890.51,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0055,2023-03-13,0.0,10718.43,EUR Account,Operating,Supplier Payment
+CF-2023-0056,2023-03-15,0.0,38074.58,Main Operating Account,Operating,Supplier Payment
+CF-2023-0057,2023-03-15,39733.16,0.0,EUR Account,Operating,Customer Payment - Invoice
+CF-2023-0058,2023-03-15,51966.69,0.0,EUR Account,Operating,Customer Payment - Invoice
+CF-2023-0059,2023-03-15,0.0,13235.13,Main Operating Account,Operating,Supplier Payment
+CF-2023-0060,2023-03-16,107104.31,0.0,Main Operating Account,Financing,Loan Proceeds
+CF-2023-0061,2023-03-16,38565.02,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0062,2023-03-17,0.0,11279.34,Main Operating Account,Operating,Supplier Payment
+CF-2023-0063,2023-03-17,0.0,27071.54,EUR Account,Operating,Supplier Payment
+CF-2023-0064,2023-03-17,20732.93,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0065,2023-03-20,0.0,43611.49,Main Operating Account,Operating,Supplier Payment
+CF-2023-0066,2023-03-21,92469.12,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0067,2023-03-22,59148.65,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0068,2023-03-22,0.0,35863.66,EUR Account,Operating,Supplier Payment
+CF-2023-0069,2023-03-24,54851.34,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0070,2023-03-24,76201.07,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0071,2023-03-27,0.0,36628.72,Main Operating Account,Operating,Tax Payment - VAT
+CF-2023-0072,2023-03-30,8770.21,0.0,Main Operating Account,Operating,Insurance Rebate
+CF-2023-0073,2023-03-31,0.0,14191.87,Main Operating Account,Operating,Supplier Payment
+CF-2023-0074,2023-04-04,76104.1,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0075,2023-04-04,63429.11,0.0,Main Operating Account,Financing,Loan Proceeds
+CF-2023-0076,2023-04-04,79393.07,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0077,2023-04-05,0.0,38286.98,Main Operating Account,Operating,Tax Payment - VAT
+CF-2023-0078,2023-04-06,0.0,37402.3,Main Operating Account,Operating,Supplier Payment
+CF-2023-0079,2023-04-06,0.0,45569.49,Main Operating Account,Operating,Supplier Payment
+CF-2023-0080,2023-04-06,0.0,25836.98,Savings Account,Investing,Equipment Purchase
+CF-2023-0081,2023-04-06,0.0,40840.85,Main Operating Account,Operating,Rent Payment
+CF-2023-0082,2023-04-07,5598.42,0.0,Savings Account,Operating,Tax Refund
+CF-2023-0083,2023-04-07,0.0,39813.82,Main Operating Account,Operating,Supplier Payment
+CF-2023-0084,2023-04-07,0.0,44625.83,EUR Account,Financing,Dividend Payment
+CF-2023-0085,2023-04-10,82590.25,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0086,2023-04-11,73182.75,0.0,EUR Account,Operating,Customer Payment - Invoice
+CF-2023-0087,2023-04-12,0.0,15982.91,EUR Account,Operating,Supplier Payment
+CF-2023-0088,2023-04-14,50121.79,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0089,2023-04-18,76023.21,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0090,2023-04-18,94830.26,0.0,EUR Account,Operating,Customer Payment - Invoice
+CF-2023-0091,2023-04-20,0.0,47342.02,Main Operating Account,Operating,Supplier Payment
+CF-2023-0092,2023-04-20,0.0,37141.8,Main Operating Account,Operating,Supplier Payment
+CF-2023-0093,2023-04-21,80432.26,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0094,2023-04-21,71215.97,0.0,EUR Account,Operating,Customer Payment - Invoice
+CF-2023-0095,2023-04-24,73428.86,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0096,2023-04-25,0.0,19144.12,Main Operating Account,Operating,Supplier Payment
+CF-2023-0097,2023-04-26,0.0,21287.42,EUR Account,Operating,Supplier Payment
+CF-2023-0098,2023-04-26,44818.48,0.0,EUR Account,Operating,Customer Payment - Invoice
+CF-2023-0099,2023-04-27,0.0,33659.27,Main Operating Account,Operating,Supplier Payment
+CF-2023-0100,2023-04-28,61970.59,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0101,2023-04-28,0.0,12323.83,EUR Account,Operating,Supplier Payment
+CF-2023-0102,2023-05-01,67512.16,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0103,2023-05-04,0.0,10008.74,Main Operating Account,Operating,Supplier Payment
+CF-2023-0104,2023-05-04,0.0,38038.58,EUR Account,Operating,Supplier Payment
+CF-2023-0105,2023-05-08,0.0,15965.2,Main Operating Account,Operating,Supplier Payment
+CF-2023-0106,2023-05-09,0.0,53464.49,Main Operating Account,Operating,Tax Payment - VAT
+CF-2023-0107,2023-05-10,0.0,46079.99,Main Operating Account,Operating,Supplier Payment
+CF-2023-0108,2023-05-11,62844.32,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0109,2023-05-11,62119.66,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0110,2023-05-11,36285.89,0.0,EUR Account,Operating,Customer Payment - Invoice
+CF-2023-0111,2023-05-15,0.0,39203.33,EUR Account,Operating,Tax Payment - VAT
+CF-2023-0112,2023-05-15,0.0,21448.03,Main Operating Account,Investing,Equipment Purchase
+CF-2023-0113,2023-05-16,56467.9,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0114,2023-05-18,0.0,40056.66,Main Operating Account,Operating,Supplier Payment
+CF-2023-0115,2023-05-22,101505.38,0.0,Savings Account,Operating,Customer Payment - Invoice
+CF-2023-0116,2023-05-22,80590.41,0.0,Savings Account,Operating,Customer Payment - Invoice
+CF-2023-0117,2023-05-22,43722.0,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0118,2023-05-23,0.0,33190.62,Main Operating Account,Operating,Supplier Payment
+CF-2023-0119,2023-05-23,0.0,23986.11,Main Operating Account,Operating,Supplier Payment
+CF-2023-0120,2023-05-23,0.0,16753.65,EUR Account,Operating,Supplier Payment
+CF-2023-0121,2023-05-24,45310.66,0.0,EUR Account,Operating,Customer Payment - Invoice
+CF-2023-0122,2023-05-24,0.0,46001.58,EUR Account,Operating,Supplier Payment
+CF-2023-0123,2023-05-26,55937.0,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0124,2023-05-29,117731.79,0.0,Main Operating Account,Financing,Loan Proceeds
+CF-2023-0125,2023-05-30,55522.87,0.0,EUR Account,Operating,Customer Payment - Invoice
+CF-2023-0126,2023-06-02,0.0,41396.44,Main Operating Account,Operating,Supplier Payment
+CF-2023-0127,2023-06-05,45814.73,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0128,2023-06-07,51324.07,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0129,2023-06-08,41889.98,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0130,2023-06-12,51093.15,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0131,2023-06-13,0.0,21445.18,Main Operating Account,Operating,Supplier Payment
+CF-2023-0132,2023-06-14,53461.15,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0133,2023-06-15,0.0,18406.25,Main Operating Account,Operating,Supplier Payment
+CF-2023-0134,2023-06-15,0.0,33709.99,Main Operating Account,Operating,Supplier Payment
+CF-2023-0135,2023-06-16,0.0,41970.33,Main Operating Account,Operating,Tax Payment - VAT
+CF-2023-0136,2023-06-16,42126.09,0.0,EUR Account,Operating,Customer Payment - Invoice
+CF-2023-0137,2023-06-19,90461.53,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0138,2023-06-20,83033.86,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0139,2023-06-20,0.0,41620.23,EUR Account,Operating,Supplier Payment
+CF-2023-0140,2023-06-21,0.0,7449.72,EUR Account,Operating,Insurance Premium
+CF-2023-0141,2023-06-22,0.0,14095.29,Main Operating Account,Operating,Supplier Payment
+CF-2023-0142,2023-06-22,0.0,44277.15,Main Operating Account,Operating,Supplier Payment
+CF-2023-0143,2023-06-27,51928.84,0.0,EUR Account,Operating,Customer Payment - Invoice
+CF-2023-0144,2023-06-27,0.0,9241.2,Main Operating Account,Operating,Supplier Payment
+CF-2023-0145,2023-06-27,0.0,38449.19,Main Operating Account,Operating,Supplier Payment
+CF-2023-0146,2023-06-29,51953.2,0.0,Main Operating Account,Financing,Loan Proceeds
+CF-2023-0147,2023-07-03,0.0,313229.24,Main Operating Account,Operating,Salary Payment
+CF-2023-0148,2023-07-04,70712.66,0.0,EUR Account,Operating,Customer Payment - Invoice
+CF-2023-0149,2023-07-05,0.0,7813.51,Savings Account,Financing,Loan Repayment
+CF-2023-0150,2023-07-11,0.0,27502.0,Main Operating Account,Operating,Supplier Payment
+CF-2023-0151,2023-07-11,0.0,303698.98,Main Operating Account,Operating,Salary Payment
+CF-2023-0152,2023-07-11,50239.67,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0153,2023-07-14,0.0,301526.92,Main Operating Account,Operating,Salary Payment
+CF-2023-0154,2023-07-14,0.0,24802.35,Main Operating Account,Operating,Supplier Payment
+CF-2023-0155,2023-07-18,0.0,31846.2,EUR Account,Operating,Supplier Payment
+CF-2023-0156,2023-07-18,8369.77,0.0,Savings Account,Operating,Insurance Rebate
+CF-2023-0157,2023-07-19,0.0,26032.08,EUR Account,Operating,Supplier Payment
+CF-2023-0158,2023-07-19,99907.94,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0159,2023-07-19,32247.63,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0160,2023-07-20,0.0,37351.81,EUR Account,Operating,Supplier Payment
+CF-2023-0161,2023-07-25,72570.09,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0162,2023-07-25,36962.92,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0163,2023-07-26,77530.54,0.0,EUR Account,Operating,Customer Payment - Invoice
+CF-2023-0164,2023-07-28,0.0,23159.57,Main Operating Account,Operating,Supplier Payment
+CF-2023-0165,2023-07-31,45140.28,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0166,2023-08-02,0.0,10963.29,Main Operating Account,Operating,Supplier Payment
+CF-2023-0167,2023-08-03,0.0,43732.75,Main Operating Account,Operating,Rent Payment
+CF-2023-0168,2023-08-03,0.0,40445.68,EUR Account,Operating,Supplier Payment
+CF-2023-0169,2023-08-07,0.0,19319.95,Main Operating Account,Operating,Supplier Payment
+CF-2023-0170,2023-08-07,84310.5,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0171,2023-08-08,0.0,5829.16,Savings Account,Operating,Insurance Premium
+CF-2023-0172,2023-08-09,0.0,21628.24,EUR Account,Operating,Supplier Payment
+CF-2023-0173,2023-08-09,79148.38,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0174,2023-08-10,56991.19,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0175,2023-08-14,34621.91,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0176,2023-08-16,78185.48,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0177,2023-08-16,0.0,42908.79,Main Operating Account,Operating,Supplier Payment
+CF-2023-0178,2023-08-18,47906.89,0.0,EUR Account,Operating,Customer Payment - Invoice
+CF-2023-0179,2023-08-18,0.0,18972.45,EUR Account,Operating,Supplier Payment
+CF-2023-0180,2023-08-21,83960.32,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0181,2023-08-23,0.0,22435.24,Main Operating Account,Operating,Supplier Payment
+CF-2023-0182,2023-08-24,80751.74,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0183,2023-08-25,42055.47,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0184,2023-08-25,0.0,45763.58,Main Operating Account,Operating,Supplier Payment
+CF-2023-0185,2023-09-04,67521.01,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0186,2023-09-06,0.0,20842.33,Main Operating Account,Operating,Supplier Payment
+CF-2023-0187,2023-09-06,75457.25,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0188,2023-09-06,0.0,26820.03,Main Operating Account,Operating,Supplier Payment
+CF-2023-0189,2023-09-07,69311.69,0.0,EUR Account,Operating,Customer Payment - Invoice
+CF-2023-0190,2023-09-07,0.0,27939.72,Main Operating Account,Operating,Supplier Payment
+CF-2023-0191,2023-09-08,70523.09,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0192,2023-09-12,0.0,40788.94,Main Operating Account,Operating,Tax Payment - VAT
+CF-2023-0193,2023-09-12,0.0,8051.19,Savings Account,Operating,Insurance Premium
+CF-2023-0194,2023-09-13,0.0,35746.95,Main Operating Account,Operating,Supplier Payment
+CF-2023-0195,2023-09-14,24998.44,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0196,2023-09-15,0.0,302003.86,Main Operating Account,Operating,Salary Payment
+CF-2023-0197,2023-09-18,44455.93,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0198,2023-09-18,0.0,308391.31,Main Operating Account,Operating,Salary Payment
+CF-2023-0199,2023-09-19,97039.88,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0200,2023-09-19,35078.76,0.0,EUR Account,Investing,Asset Sale
+CF-2023-0201,2023-09-20,31618.34,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0202,2023-09-20,4790.35,0.0,EUR Account,Operating,Insurance Rebate
+CF-2023-0203,2023-09-20,23188.51,0.0,EUR Account,Operating,Customer Payment - Invoice
+CF-2023-0204,2023-09-20,0.0,12857.04,EUR Account,Operating,Supplier Payment
+CF-2023-0205,2023-09-21,12977.01,0.0,Main Operating Account,Investing,Asset Sale
+CF-2023-0206,2023-09-22,0.0,28583.85,EUR Account,Operating,Supplier Payment
+CF-2023-0207,2023-09-22,0.0,49994.87,Main Operating Account,Operating,Rent Payment
+CF-2023-0208,2023-09-25,0.0,303049.88,Main Operating Account,Operating,Salary Payment
+CF-2023-0209,2023-09-25,0.0,18095.95,Main Operating Account,Operating,Supplier Payment
+CF-2023-0210,2023-09-26,77802.49,0.0,EUR Account,Operating,Customer Payment - Invoice
+CF-2023-0211,2023-09-27,65376.93,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0212,2023-09-28,20839.67,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0213,2023-09-29,0.0,13240.53,Main Operating Account,Operating,Supplier Payment
+CF-2023-0214,2023-10-02,0.0,23318.83,EUR Account,Operating,Supplier Payment
+CF-2023-0215,2023-10-04,0.0,12014.58,EUR Account,Operating,Supplier Payment
+CF-2023-0216,2023-10-05,100394.28,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0217,2023-10-05,0.0,26277.12,Savings Account,Operating,Supplier Payment
+CF-2023-0218,2023-10-05,0.0,34547.55,EUR Account,Operating,Supplier Payment
+CF-2023-0219,2023-10-09,80344.49,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0220,2023-10-09,47569.15,0.0,EUR Account,Operating,Customer Payment - Invoice
+CF-2023-0221,2023-10-13,46922.28,0.0,EUR Account,Operating,Customer Payment - Invoice
+CF-2023-0222,2023-10-13,0.0,26919.05,EUR Account,Operating,Supplier Payment
+CF-2023-0223,2023-10-18,0.0,33993.47,EUR Account,Operating,Supplier Payment
+CF-2023-0224,2023-10-18,59977.46,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0225,2023-10-18,75414.85,0.0,EUR Account,Operating,Customer Payment - Invoice
+CF-2023-0226,2023-10-19,42606.99,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0227,2023-10-19,0.0,9480.78,Main Operating Account,Operating,Supplier Payment
+CF-2023-0228,2023-10-20,0.0,39261.01,Main Operating Account,Operating,Supplier Payment
+CF-2023-0229,2023-10-23,0.0,20871.09,Main Operating Account,Operating,Supplier Payment
+CF-2023-0230,2023-10-24,34583.1,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0231,2023-10-25,0.0,20666.45,Savings Account,Operating,Supplier Payment
+CF-2023-0232,2023-10-26,93170.34,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0233,2023-10-30,26109.2,0.0,EUR Account,Operating,Customer Payment - Invoice
+CF-2023-0234,2023-10-30,0.0,29640.64,Main Operating Account,Operating,Supplier Payment
+CF-2023-0235,2023-11-02,0.0,9576.9,EUR Account,Operating,Supplier Payment
+CF-2023-0236,2023-11-02,307.49,0.0,Savings Account,Operating,Interest Income
+CF-2023-0237,2023-11-02,0.0,42602.7,EUR Account,Operating,Supplier Payment
+CF-2023-0238,2023-11-03,0.0,21548.61,Main Operating Account,Operating,Supplier Payment
+CF-2023-0239,2023-11-06,77316.63,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0240,2023-11-06,1097.01,0.0,Savings Account,Operating,Interest Income
+CF-2023-0241,2023-11-08,0.0,72258.61,Savings Account,Operating,Tax Payment - Corporation Tax
+CF-2023-0242,2023-11-08,93763.05,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0243,2023-11-08,104945.5,0.0,EUR Account,Operating,Customer Payment - Invoice
+CF-2023-0244,2023-11-09,0.0,47117.78,Main Operating Account,Operating,Supplier Payment
+CF-2023-0245,2023-11-10,26744.13,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0246,2023-11-10,0.0,37294.39,Main Operating Account,Operating,Supplier Payment
+CF-2023-0247,2023-11-10,100235.5,0.0,EUR Account,Operating,Customer Payment - Invoice
+CF-2023-0248,2023-11-10,0.0,44561.96,EUR Account,Operating,Supplier Payment
+CF-2023-0249,2023-11-15,40213.42,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0250,2023-11-17,50611.17,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0251,2023-11-20,0.0,22092.84,Main Operating Account,Operating,Supplier Payment
+CF-2023-0252,2023-11-21,68734.67,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0253,2023-11-21,8100.75,0.0,Savings Account,Operating,Insurance Rebate
+CF-2023-0254,2023-11-22,0.0,38223.09,EUR Account,Operating,Supplier Payment
+CF-2023-0255,2023-11-23,49229.45,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0256,2023-11-24,0.0,46660.01,EUR Account,Operating,Supplier Payment
+CF-2023-0257,2023-11-27,0.0,19678.75,Savings Account,Investing,Equipment Purchase
+CF-2023-0258,2023-11-28,54914.88,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0259,2023-11-29,0.0,24620.12,Main Operating Account,Operating,Supplier Payment
+CF-2023-0260,2023-11-29,0.0,305129.92,Main Operating Account,Operating,Salary Payment
+CF-2023-0261,2023-12-01,0.0,34442.31,Main Operating Account,Operating,Supplier Payment
+CF-2023-0262,2023-12-01,0.0,39537.26,Main Operating Account,Operating,Supplier Payment
+CF-2023-0263,2023-12-04,52638.15,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0264,2023-12-04,52327.99,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0265,2023-12-04,0.0,10095.96,EUR Account,Operating,Supplier Payment
+CF-2023-0266,2023-12-04,21945.17,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0267,2023-12-05,0.0,11231.62,Main Operating Account,Operating,Supplier Payment
+CF-2023-0268,2023-12-07,0.0,38606.3,Main Operating Account,Operating,Supplier Payment
+CF-2023-0269,2023-12-07,0.0,38758.51,Savings Account,Operating,Supplier Payment
+CF-2023-0270,2023-12-07,104027.42,0.0,EUR Account,Operating,Customer Payment - Invoice
+CF-2023-0271,2023-12-11,0.0,33323.07,Main Operating Account,Operating,Supplier Payment
+CF-2023-0272,2023-12-12,90531.3,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0273,2023-12-12,56688.54,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0274,2023-12-12,19509.05,0.0,EUR Account,Operating,Tax Refund
+CF-2023-0275,2023-12-14,82577.4,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0276,2023-12-14,97116.72,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0277,2023-12-15,0.0,67945.15,Savings Account,Operating,Tax Payment - Corporation Tax
+CF-2023-0278,2023-12-15,0.0,35443.9,Main Operating Account,Operating,Supplier Payment
+CF-2023-0279,2023-12-15,95191.56,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0280,2023-12-18,100596.13,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0281,2023-12-18,20177.14,0.0,EUR Account,Operating,Customer Payment - Invoice
+CF-2023-0282,2023-12-19,76536.07,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0283,2023-12-19,0.0,27049.84,EUR Account,Operating,Supplier Payment
+CF-2023-0284,2023-12-20,0.0,31895.67,Main Operating Account,Operating,Supplier Payment
+CF-2023-0285,2023-12-21,0.0,39723.84,Main Operating Account,Operating,Supplier Payment
+CF-2023-0286,2023-12-21,77654.18,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0287,2023-12-21,71077.15,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0288,2023-12-22,132419.11,0.0,Main Operating Account,Financing,Loan Proceeds
+CF-2023-0289,2023-12-22,73553.79,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2023-0290,2023-12-25,0.0,289319.95,Main Operating Account,Operating,Salary Payment
+CF-2023-0291,2023-12-26,73635.88,0.0,EUR Account,Operating,Customer Payment - Invoice
+CF-2023-0292,2023-12-26,0.0,28153.55,EUR Account,Operating,Supplier Payment
+CF-2023-0293,2023-12-26,0.0,29725.6,EUR Account,Investing,Equipment Purchase
+CF-2023-0294,2023-12-28,0.0,44021.24,Main Operating Account,Operating,Supplier Payment
+CF-2023-0295,2023-12-28,0.0,9246.03,EUR Account,Operating,Supplier Payment
+CF-2024-0001,2024-01-01,0.0,24031.37,Main Operating Account,Operating,Supplier Payment
+CF-2024-0002,2024-01-02,50420.28,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0003,2024-01-04,66858.02,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0004,2024-01-04,25936.56,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0005,2024-01-05,0.0,42212.28,Main Operating Account,Operating,Rent Payment
+CF-2024-0006,2024-01-10,0.0,15216.64,Savings Account,Operating,Supplier Payment
+CF-2024-0007,2024-01-11,81476.29,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0008,2024-01-12,0.0,16622.76,Main Operating Account,Operating,Supplier Payment
+CF-2024-0009,2024-01-12,102250.68,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0010,2024-01-12,27415.0,0.0,EUR Account,Operating,Customer Payment - Invoice
+CF-2024-0011,2024-01-15,0.0,29219.31,Main Operating Account,Operating,Supplier Payment
+CF-2024-0012,2024-01-15,0.0,25724.52,Main Operating Account,Operating,Supplier Payment
+CF-2024-0013,2024-01-15,37878.94,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0014,2024-01-16,62144.89,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0015,2024-01-18,42235.43,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0016,2024-01-22,0.0,14296.4,Main Operating Account,Operating,Supplier Payment
+CF-2024-0017,2024-01-22,0.0,26005.39,EUR Account,Investing,Equipment Purchase
+CF-2024-0018,2024-01-23,0.0,9050.15,EUR Account,Operating,Supplier Payment
+CF-2024-0019,2024-01-25,0.0,22802.12,Savings Account,Operating,Supplier Payment
+CF-2024-0020,2024-01-29,0.0,45154.69,Main Operating Account,Operating,Rent Payment
+CF-2024-0021,2024-01-30,94003.84,0.0,EUR Account,Operating,Customer Payment - Invoice
+CF-2024-0022,2024-01-30,50564.19,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0023,2024-02-01,92973.5,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0024,2024-02-02,0.0,20112.82,Main Operating Account,Operating,Supplier Payment
+CF-2024-0025,2024-02-02,37185.1,0.0,EUR Account,Operating,Customer Payment - Invoice
+CF-2024-0026,2024-02-05,44223.48,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0027,2024-02-07,0.0,14725.31,Main Operating Account,Operating,Supplier Payment
+CF-2024-0028,2024-02-08,0.0,11145.88,EUR Account,Operating,Supplier Payment
+CF-2024-0029,2024-02-09,0.0,13907.59,Main Operating Account,Operating,Supplier Payment
+CF-2024-0030,2024-02-12,66608.95,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0031,2024-02-13,79726.41,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0032,2024-02-14,24774.05,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0033,2024-02-14,77996.07,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0034,2024-02-15,0.0,46051.69,Main Operating Account,Operating,Supplier Payment
+CF-2024-0035,2024-02-16,0.0,14955.06,Savings Account,Investing,Equipment Purchase
+CF-2024-0036,2024-02-16,43181.9,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0037,2024-02-19,0.0,289732.66,Main Operating Account,Operating,Salary Payment
+CF-2024-0038,2024-02-20,46254.83,0.0,EUR Account,Operating,Customer Payment - Invoice
+CF-2024-0039,2024-02-21,0.0,32095.96,EUR Account,Operating,Supplier Payment
+CF-2024-0040,2024-02-22,77004.96,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0041,2024-02-23,33285.45,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0042,2024-02-27,0.0,52468.76,EUR Account,Operating,Tax Payment - Corporation Tax
+CF-2024-0043,2024-02-28,0.0,33411.93,Main Operating Account,Operating,Supplier Payment
+CF-2024-0044,2024-02-29,0.0,38395.09,Main Operating Account,Operating,Supplier Payment
+CF-2024-0045,2024-03-06,0.0,28339.54,Main Operating Account,Operating,Supplier Payment
+CF-2024-0046,2024-03-07,964.57,0.0,Savings Account,Operating,Interest Income
+CF-2024-0047,2024-03-11,28081.02,0.0,Main Operating Account,Investing,Asset Sale
+CF-2024-0048,2024-03-12,45005.48,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0049,2024-03-13,71053.07,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0050,2024-03-15,39553.7,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0051,2024-03-15,59379.73,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0052,2024-03-15,86888.15,0.0,EUR Account,Operating,Customer Payment - Invoice
+CF-2024-0053,2024-03-15,0.0,22571.98,Savings Account,Operating,Supplier Payment
+CF-2024-0054,2024-03-15,0.0,32989.62,EUR Account,Operating,Supplier Payment
+CF-2024-0055,2024-03-18,47114.49,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0056,2024-03-18,0.0,23678.32,Main Operating Account,Operating,Supplier Payment
+CF-2024-0057,2024-03-19,69684.94,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0058,2024-03-20,0.0,34477.17,EUR Account,Operating,Supplier Payment
+CF-2024-0059,2024-03-21,0.0,45884.34,EUR Account,Operating,Supplier Payment
+CF-2024-0060,2024-03-21,0.0,34544.48,EUR Account,Operating,Supplier Payment
+CF-2024-0061,2024-03-21,96224.03,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0062,2024-03-22,0.0,39666.48,EUR Account,Operating,Supplier Payment
+CF-2024-0063,2024-03-22,42720.79,0.0,Savings Account,Operating,Customer Payment - Invoice
+CF-2024-0064,2024-03-25,0.0,42100.79,Main Operating Account,Operating,Rent Payment
+CF-2024-0065,2024-03-26,47437.94,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0066,2024-03-27,0.0,23068.79,Main Operating Account,Operating,Supplier Payment
+CF-2024-0067,2024-03-28,0.0,17061.72,Main Operating Account,Operating,Supplier Payment
+CF-2024-0068,2024-03-28,24675.6,0.0,EUR Account,Operating,Customer Payment - Invoice
+CF-2024-0069,2024-03-29,0.0,28307.59,Main Operating Account,Operating,Supplier Payment
+CF-2024-0070,2024-04-01,57248.14,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0071,2024-04-03,52491.49,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0072,2024-04-04,0.0,39755.96,Main Operating Account,Operating,Supplier Payment
+CF-2024-0073,2024-04-04,0.0,45306.56,Main Operating Account,Operating,Rent Payment
+CF-2024-0074,2024-04-04,26925.31,0.0,EUR Account,Operating,Customer Payment - Invoice
+CF-2024-0075,2024-04-05,0.0,28615.03,Main Operating Account,Operating,Supplier Payment
+CF-2024-0076,2024-04-05,32099.06,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0077,2024-04-05,840.57,0.0,Savings Account,Operating,Interest Income
+CF-2024-0078,2024-04-08,0.0,17505.61,Main Operating Account,Operating,Supplier Payment
+CF-2024-0079,2024-04-10,86850.12,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0080,2024-04-12,22539.64,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0081,2024-04-12,0.0,23618.15,Main Operating Account,Operating,Supplier Payment
+CF-2024-0082,2024-04-12,0.0,34574.85,Main Operating Account,Operating,Supplier Payment
+CF-2024-0083,2024-04-12,0.0,8649.69,EUR Account,Operating,Supplier Payment
+CF-2024-0084,2024-04-15,50002.16,0.0,EUR Account,Operating,Customer Payment - Invoice
+CF-2024-0085,2024-04-17,42514.14,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0086,2024-04-17,0.0,29042.38,Main Operating Account,Operating,Supplier Payment
+CF-2024-0087,2024-04-18,0.0,18236.96,EUR Account,Operating,Supplier Payment
+CF-2024-0088,2024-04-18,0.0,21300.74,Main Operating Account,Operating,Supplier Payment
+CF-2024-0089,2024-04-18,83122.68,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0090,2024-04-18,0.0,299993.17,Main Operating Account,Operating,Salary Payment
+CF-2024-0091,2024-04-19,0.0,34284.18,Main Operating Account,Operating,Supplier Payment
+CF-2024-0092,2024-04-19,0.0,8062.57,Main Operating Account,Operating,Supplier Payment
+CF-2024-0093,2024-04-22,0.0,33711.82,EUR Account,Operating,Supplier Payment
+CF-2024-0094,2024-04-23,20452.32,0.0,EUR Account,Operating,Customer Payment - Invoice
+CF-2024-0095,2024-04-29,84391.16,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0096,2024-04-29,102006.91,0.0,EUR Account,Operating,Customer Payment - Invoice
+CF-2024-0097,2024-04-29,58812.58,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0098,2024-04-30,90301.06,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0099,2024-05-01,0.0,19147.59,EUR Account,Operating,Supplier Payment
+CF-2024-0100,2024-05-02,0.0,22653.14,Main Operating Account,Operating,Supplier Payment
+CF-2024-0101,2024-05-03,0.0,14906.25,Savings Account,Operating,Supplier Payment
+CF-2024-0102,2024-05-03,4559.17,0.0,Main Operating Account,Operating,Insurance Rebate
+CF-2024-0103,2024-05-03,12177.97,0.0,Main Operating Account,Operating,Tax Refund
+CF-2024-0104,2024-05-07,100093.65,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0105,2024-05-08,0.0,25526.91,Main Operating Account,Operating,Supplier Payment
+CF-2024-0106,2024-05-09,0.0,27961.76,Main Operating Account,Operating,Supplier Payment
+CF-2024-0107,2024-05-10,70413.44,0.0,EUR Account,Operating,Customer Payment - Invoice
+CF-2024-0108,2024-05-10,24966.0,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0109,2024-05-13,82667.77,0.0,EUR Account,Operating,Customer Payment - Invoice
+CF-2024-0110,2024-05-13,0.0,30956.87,Main Operating Account,Operating,Supplier Payment
+CF-2024-0111,2024-05-14,93324.45,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0112,2024-05-14,41204.7,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0113,2024-05-15,80436.67,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0114,2024-05-15,0.0,35162.48,EUR Account,Operating,Supplier Payment
+CF-2024-0115,2024-05-16,52645.49,0.0,EUR Account,Operating,Customer Payment - Invoice
+CF-2024-0116,2024-05-20,0.0,36161.51,Main Operating Account,Operating,Supplier Payment
+CF-2024-0117,2024-05-20,0.0,46111.58,Main Operating Account,Operating,Supplier Payment
+CF-2024-0118,2024-05-20,21684.9,0.0,EUR Account,Operating,Customer Payment - Invoice
+CF-2024-0119,2024-05-22,0.0,318702.45,Main Operating Account,Operating,Salary Payment
+CF-2024-0120,2024-05-24,0.0,24248.41,Main Operating Account,Operating,Supplier Payment
+CF-2024-0121,2024-05-28,83536.31,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0122,2024-05-28,0.0,44659.16,Main Operating Account,Operating,Supplier Payment
+CF-2024-0123,2024-05-29,0.0,10597.56,Main Operating Account,Operating,Supplier Payment
+CF-2024-0124,2024-05-30,34253.1,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0125,2024-05-30,35353.88,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0126,2024-06-03,0.0,296243.7,Main Operating Account,Operating,Salary Payment
+CF-2024-0127,2024-06-06,28802.02,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0128,2024-06-07,49449.82,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0129,2024-06-10,0.0,5646.71,EUR Account,Financing,Loan Repayment
+CF-2024-0130,2024-06-11,89630.53,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0131,2024-06-12,57147.78,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0132,2024-06-12,38596.05,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0133,2024-06-13,94929.44,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0134,2024-06-14,7891.52,0.0,EUR Account,Operating,Insurance Rebate
+CF-2024-0135,2024-06-17,0.0,45389.51,Main Operating Account,Operating,Supplier Payment
+CF-2024-0136,2024-06-18,50095.27,0.0,EUR Account,Operating,Customer Payment - Invoice
+CF-2024-0137,2024-06-19,0.0,18586.24,Main Operating Account,Operating,Supplier Payment
+CF-2024-0138,2024-06-19,0.0,32205.56,EUR Account,Operating,Supplier Payment
+CF-2024-0139,2024-06-19,0.0,11737.14,Main Operating Account,Operating,Supplier Payment
+CF-2024-0140,2024-06-19,90127.67,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0141,2024-06-20,0.0,39850.33,Main Operating Account,Operating,Rent Payment
+CF-2024-0142,2024-06-21,0.0,42551.25,Main Operating Account,Operating,Supplier Payment
+CF-2024-0143,2024-06-21,79927.39,0.0,EUR Account,Operating,Customer Payment - Invoice
+CF-2024-0144,2024-06-21,0.0,33559.65,Main Operating Account,Operating,Supplier Payment
+CF-2024-0145,2024-06-21,0.0,58067.02,Main Operating Account,Operating,Tax Payment - VAT
+CF-2024-0146,2024-06-26,0.0,33676.29,Main Operating Account,Operating,Supplier Payment
+CF-2024-0147,2024-06-28,102065.02,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0148,2024-07-04,41270.04,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0149,2024-07-04,0.0,41012.45,Main Operating Account,Operating,Supplier Payment
+CF-2024-0150,2024-07-05,5090.28,0.0,Savings Account,Operating,Insurance Rebate
+CF-2024-0151,2024-07-05,0.0,8327.1,Main Operating Account,Operating,Supplier Payment
+CF-2024-0152,2024-07-08,62803.27,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0153,2024-07-08,100248.49,0.0,EUR Account,Operating,Customer Payment - Invoice
+CF-2024-0154,2024-07-10,0.0,31333.76,Main Operating Account,Operating,Supplier Payment
+CF-2024-0155,2024-07-11,0.0,11867.26,Main Operating Account,Operating,Supplier Payment
+CF-2024-0156,2024-07-11,54159.09,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0157,2024-07-12,0.0,10046.31,Main Operating Account,Operating,Supplier Payment
+CF-2024-0158,2024-07-12,0.0,52737.86,Savings Account,Operating,Tax Payment - VAT
+CF-2024-0159,2024-07-16,45206.2,0.0,EUR Account,Operating,Customer Payment - Invoice
+CF-2024-0160,2024-07-16,6001.11,0.0,Savings Account,Operating,Insurance Rebate
+CF-2024-0161,2024-07-16,0.0,43293.58,Main Operating Account,Operating,Supplier Payment
+CF-2024-0162,2024-07-17,0.0,22624.25,Main Operating Account,Operating,Supplier Payment
+CF-2024-0163,2024-07-24,45194.68,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0164,2024-07-25,0.0,10941.27,Main Operating Account,Operating,Supplier Payment
+CF-2024-0165,2024-07-30,37069.32,0.0,Savings Account,Investing,Asset Sale
+CF-2024-0166,2024-07-31,0.0,45809.31,Main Operating Account,Operating,Supplier Payment
+CF-2024-0167,2024-08-01,100493.85,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0168,2024-08-02,85526.1,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0169,2024-08-05,57758.0,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0170,2024-08-07,0.0,24751.21,Main Operating Account,Operating,Supplier Payment
+CF-2024-0171,2024-08-08,51076.56,0.0,EUR Account,Operating,Customer Payment - Invoice
+CF-2024-0172,2024-08-09,0.0,27367.2,EUR Account,Operating,Supplier Payment
+CF-2024-0173,2024-08-12,0.0,36199.53,Main Operating Account,Operating,Supplier Payment
+CF-2024-0174,2024-08-14,50047.13,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0175,2024-08-15,0.0,23072.99,EUR Account,Operating,Supplier Payment
+CF-2024-0176,2024-08-16,60616.66,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0177,2024-08-19,0.0,45379.42,Savings Account,Operating,Supplier Payment
+CF-2024-0178,2024-08-20,32834.55,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0179,2024-08-20,71336.93,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0180,2024-08-21,69931.14,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0181,2024-08-22,0.0,16293.67,Main Operating Account,Operating,Supplier Payment
+CF-2024-0182,2024-08-22,0.0,52116.35,Savings Account,Operating,Tax Payment - Corporation Tax
+CF-2024-0183,2024-08-23,87317.67,0.0,Savings Account,Operating,Customer Payment - Invoice
+CF-2024-0184,2024-08-23,0.0,36836.98,Main Operating Account,Operating,Supplier Payment
+CF-2024-0185,2024-08-23,0.0,16994.68,EUR Account,Operating,Supplier Payment
+CF-2024-0186,2024-08-23,0.0,309096.08,Main Operating Account,Operating,Salary Payment
+CF-2024-0187,2024-08-26,21941.39,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0188,2024-08-27,44033.39,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0189,2024-08-27,0.0,23187.77,EUR Account,Operating,Supplier Payment
+CF-2024-0190,2024-08-28,0.0,38998.89,EUR Account,Operating,Supplier Payment
+CF-2024-0191,2024-09-02,64200.61,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0192,2024-09-02,34138.48,0.0,Savings Account,Investing,Asset Sale
+CF-2024-0193,2024-09-02,82265.73,0.0,EUR Account,Operating,Customer Payment - Invoice
+CF-2024-0194,2024-09-02,82457.51,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0195,2024-09-05,0.0,24033.33,Main Operating Account,Operating,Supplier Payment
+CF-2024-0196,2024-09-05,119617.13,0.0,Main Operating Account,Financing,Loan Proceeds
+CF-2024-0197,2024-09-06,101913.13,0.0,EUR Account,Operating,Customer Payment - Invoice
+CF-2024-0198,2024-09-06,0.0,19800.97,Main Operating Account,Operating,Supplier Payment
+CF-2024-0199,2024-09-06,0.0,15712.46,Main Operating Account,Operating,Supplier Payment
+CF-2024-0200,2024-09-09,36616.85,0.0,EUR Account,Operating,Customer Payment - Invoice
+CF-2024-0201,2024-09-09,80130.29,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0202,2024-09-10,83764.26,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0203,2024-09-10,0.0,38150.27,EUR Account,Operating,Supplier Payment
+CF-2024-0204,2024-09-12,0.0,30915.09,Main Operating Account,Operating,Supplier Payment
+CF-2024-0205,2024-09-13,0.0,45433.02,Main Operating Account,Operating,Supplier Payment
+CF-2024-0206,2024-09-13,0.0,44785.39,EUR Account,Operating,Supplier Payment
+CF-2024-0207,2024-09-16,99347.79,0.0,EUR Account,Operating,Customer Payment - Invoice
+CF-2024-0208,2024-09-17,0.0,43570.4,Main Operating Account,Operating,Supplier Payment
+CF-2024-0209,2024-09-17,0.0,33549.03,Main Operating Account,Operating,Supplier Payment
+CF-2024-0210,2024-09-18,0.0,47319.76,Main Operating Account,Operating,Supplier Payment
+CF-2024-0211,2024-09-19,96990.52,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0212,2024-09-20,0.0,9498.65,Main Operating Account,Operating,Supplier Payment
+CF-2024-0213,2024-09-24,0.0,33931.41,Savings Account,Operating,Supplier Payment
+CF-2024-0214,2024-09-25,46735.55,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0215,2024-09-27,468.83,0.0,Savings Account,Operating,Interest Income
+CF-2024-0216,2024-09-30,0.0,15452.47,EUR Account,Operating,Supplier Payment
+CF-2024-0217,2024-10-01,0.0,13093.88,EUR Account,Operating,Supplier Payment
+CF-2024-0218,2024-10-02,0.0,21781.15,Main Operating Account,Operating,Supplier Payment
+CF-2024-0219,2024-10-03,0.0,42784.81,EUR Account,Operating,Supplier Payment
+CF-2024-0220,2024-10-03,0.0,309832.18,Main Operating Account,Operating,Salary Payment
+CF-2024-0221,2024-10-03,63719.08,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0222,2024-10-04,46546.23,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0223,2024-10-08,73567.89,0.0,EUR Account,Operating,Customer Payment - Invoice
+CF-2024-0224,2024-10-09,0.0,308931.2,Main Operating Account,Operating,Salary Payment
+CF-2024-0225,2024-10-10,95875.3,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0226,2024-10-17,0.0,40347.68,Main Operating Account,Operating,Supplier Payment
+CF-2024-0227,2024-10-18,0.0,284745.33,Main Operating Account,Operating,Salary Payment
+CF-2024-0228,2024-10-18,390.26,0.0,Savings Account,Operating,Interest Income
+CF-2024-0229,2024-10-18,5302.19,0.0,EUR Account,Operating,Insurance Rebate
+CF-2024-0230,2024-10-18,502.7,0.0,Savings Account,Operating,Interest Income
+CF-2024-0231,2024-10-21,0.0,34471.7,Main Operating Account,Operating,Supplier Payment
+CF-2024-0232,2024-10-22,0.0,30556.45,Main Operating Account,Operating,Supplier Payment
+CF-2024-0233,2024-10-22,1196.69,0.0,Savings Account,Operating,Interest Income
+CF-2024-0234,2024-10-22,28285.56,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0235,2024-10-24,29620.48,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0236,2024-10-25,0.0,19483.63,Main Operating Account,Operating,Supplier Payment
+CF-2024-0237,2024-10-28,84281.79,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0238,2024-10-29,80371.86,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0239,2024-10-29,0.0,37171.58,EUR Account,Operating,Supplier Payment
+CF-2024-0240,2024-10-30,0.0,38828.23,Main Operating Account,Operating,Rent Payment
+CF-2024-0241,2024-11-06,0.0,48556.57,Main Operating Account,Operating,Rent Payment
+CF-2024-0242,2024-11-08,0.0,29517.13,Main Operating Account,Operating,Supplier Payment
+CF-2024-0243,2024-11-08,138904.13,0.0,Main Operating Account,Financing,Loan Proceeds
+CF-2024-0244,2024-11-12,0.0,25088.02,Main Operating Account,Operating,Supplier Payment
+CF-2024-0245,2024-11-13,93882.48,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0246,2024-11-13,0.0,35852.34,Main Operating Account,Operating,Supplier Payment
+CF-2024-0247,2024-11-13,0.0,24660.31,Main Operating Account,Operating,Supplier Payment
+CF-2024-0248,2024-11-15,50997.05,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0249,2024-11-15,0.0,16133.47,Main Operating Account,Operating,Supplier Payment
+CF-2024-0250,2024-11-18,0.0,36303.07,EUR Account,Operating,Supplier Payment
+CF-2024-0251,2024-11-18,0.0,34408.5,Main Operating Account,Operating,Supplier Payment
+CF-2024-0252,2024-11-18,11945.06,0.0,EUR Account,Operating,Tax Refund
+CF-2024-0253,2024-11-19,970.14,0.0,Savings Account,Operating,Interest Income
+CF-2024-0254,2024-11-20,0.0,18738.46,Main Operating Account,Operating,Supplier Payment
+CF-2024-0255,2024-11-20,26778.01,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0256,2024-11-25,88424.6,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0257,2024-11-25,64959.1,0.0,EUR Account,Operating,Customer Payment - Invoice
+CF-2024-0258,2024-11-25,41981.53,0.0,EUR Account,Operating,Customer Payment - Invoice
+CF-2024-0259,2024-11-26,0.0,46056.11,Main Operating Account,Operating,Rent Payment
+CF-2024-0260,2024-11-27,61838.94,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0261,2024-11-27,0.0,283698.56,Main Operating Account,Operating,Salary Payment
+CF-2024-0262,2024-11-29,76510.28,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0263,2024-12-02,0.0,78289.48,EUR Account,Financing,Dividend Payment
+CF-2024-0264,2024-12-02,713.38,0.0,Savings Account,Operating,Interest Income
+CF-2024-0265,2024-12-04,62615.04,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0266,2024-12-06,0.0,14729.35,EUR Account,Operating,Supplier Payment
+CF-2024-0267,2024-12-09,37250.85,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0268,2024-12-10,0.0,31361.28,Savings Account,Operating,Supplier Payment
+CF-2024-0269,2024-12-10,58563.79,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0270,2024-12-11,80849.98,0.0,EUR Account,Operating,Customer Payment - Invoice
+CF-2024-0271,2024-12-11,0.0,30025.7,EUR Account,Operating,Supplier Payment
+CF-2024-0272,2024-12-13,39105.61,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0273,2024-12-17,0.0,10718.72,Main Operating Account,Operating,Supplier Payment
+CF-2024-0274,2024-12-18,0.0,29861.85,Main Operating Account,Operating,Supplier Payment
+CF-2024-0275,2024-12-18,0.0,27328.17,Main Operating Account,Operating,Supplier Payment
+CF-2024-0276,2024-12-24,0.0,40863.68,EUR Account,Operating,Supplier Payment
+CF-2024-0277,2024-12-24,34370.21,0.0,EUR Account,Operating,Customer Payment - Invoice
+CF-2024-0278,2024-12-25,940.1,0.0,Savings Account,Operating,Interest Income
+CF-2024-0279,2024-12-25,82508.34,0.0,Savings Account,Operating,Customer Payment - Invoice
+CF-2024-0280,2024-12-27,0.0,282973.22,Main Operating Account,Operating,Salary Payment
+CF-2024-0281,2024-12-27,0.0,38573.55,Main Operating Account,Operating,Supplier Payment
+CF-2024-0282,2024-12-27,0.0,21194.61,Main Operating Account,Operating,Supplier Payment
+CF-2024-0283,2024-12-30,0.0,10418.0,Main Operating Account,Operating,Supplier Payment
+CF-2024-0284,2024-12-30,101260.72,0.0,Main Operating Account,Operating,Customer Payment - Invoice
+CF-2024-0285,2024-12-30,36880.44,0.0,Main Operating Account,Operating,Customer Payment - Invoice

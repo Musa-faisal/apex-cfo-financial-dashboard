@@ -1,0 +1,7 @@
+DepartmentID,Department,Manager,CostCenter,Division,HeadCount,AnnualBudget,BudgetPerHead
+D01,Sales,Richard Hartley,CC-SALES,Revenue-Generating,25,2050000.0,82000.0
+D02,Marketing,Sophie Laurent,CC-MKTG,Revenue-Generating,8,1285000.0,160625.0
+D03,Operations,Thomas Bergmann,CC-OPS,Operations,30,1820000.0,60666.666666666664
+D04,Finance,Amelia Crawford,CC-FIN,Support,6,575000.0,95833.33333333333
+D05,HR,Natalie Brooks,CC-HR,Support,4,385000.0,96250.0
+D06,IT,Oliver Tanaka,CC-IT,Support,7,625000.0,89285.71428571429
