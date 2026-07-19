@@ -1,20 +1,4 @@
-&lt;p align="center"&gt;
-  &lt;img src="snapshots/CFO%20OVERVIEW.png" alt="Apex Distribution CFO Dashboard Preview" width="92%"&gt;
-&lt;/p&gt;
-
-&lt;h1 align="center"&gt;📊 Apex Distribution Ltd. — CFO Financial Dashboard&lt;/h1&gt;
-&lt;p align="center"&gt;
-  &lt;b&gt;Executive Financial Analytics Dashboard&lt;/b&gt; | Power BI | DAX | Power Query | Financial Storytelling
-&lt;/p&gt;
-
-&lt;p align="center"&gt;
-  &lt;img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"&gt;
-  &lt;img src="https://img.shields.io/badge/DAX-2563EB?style=for-the-badge"&gt;
-  &lt;img src="https://img.shields.io/badge/Power%20Query-22C55E?style=for-the-badge"&gt;
-  &lt;img src="https://img.shields.io/badge/Star%20Schema-9333EA?style=for-the-badge"&gt;
-  &lt;img src="https://img.shields.io/badge/Financial%20Analytics-E11D48?style=for-the-badge"&gt;
-  &lt;img src="https://img.shields.io/badge/Business%20Intelligence-0EA5E9?style=for-the-badge"&gt;
-&lt;/p&gt;
+Apex Distribution Ltd. CFO Financial Dashboard
 
 ---
 
@@ -112,9 +96,6 @@ The Executive Overview highlights four critical financial KPIs.
 - Conditional Formatting
 - Executive KPI Design
 
-&lt;p align="center"&gt;
-  &lt;img src="snapshots/CFO%20OVERVIEW.png" alt="Executive KPI Cards" width="92%"&gt;
-&lt;/p&gt;
 
 ---
 
